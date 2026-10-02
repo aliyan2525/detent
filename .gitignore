@@ -1,0 +1,22 @@
+# KiCad
+*-backups/
+*.kicad_prl
+*-cache.lib
+*.bak
+*.kicad_pcb-bak
+fp-info-cache
+_autosave-*
+~*.lck
+# Fabrication output is committed deliberately under pcb/fab/ ; ignore scratch
+pcb/scratch/
+# PlatformIO
+firmware/.pio/
+firmware/.vscode/
+# CAD
+*.f3d.bak
+*.stl.tmp
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

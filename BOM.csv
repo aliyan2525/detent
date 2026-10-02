@@ -1,0 +1,11 @@
+Line,Part,Description,Qty,Unit_Price_USD_est,Line_Total_USD_est,Supplier,Link,Status
+1,ESP32-S3-WROOM-1-N16,Dual-core MCU module with native USB and 16MB flash,1,5.00,5.00,LCSC / DigiKey,TODO,Not ordered
+2,GC9A01 1.28in round LCD,240x240 SPI round display module,1,8.00,8.00,AliExpress / Adafruit,TODO,Not ordered
+3,2804 gimbal BLDC motor,Hollow-shaft gimbal motor for haptic torque,1,18.00,18.00,AliExpress / Amazon,TODO,Not ordered
+4,TMC6300-LA,3-phase BLDC driver IC,1,7.00,7.00,DigiKey / Mouser,TODO,Not ordered
+5,MT6701 + diametric magnet,14-bit magnetic angle encoder and magnet,1,5.00,5.00,LCSC / AliExpress,TODO,Not ordered
+6,4-layer PCB (5 pcs min),Custom board fabrication,1,25.00,25.00,JLCPCB / PCBWay,TODO,Not ordered
+7,USB-C and power parts,USB-C receptacle / LDO / TVS / passives / connectors,1,10.00,10.00,LCSC / DigiKey,TODO,Not ordered
+8,Fasteners and print material,M2/M3 screws / standoffs / filament,1,5.00,5.00,Local / AliExpress,TODO,Not ordered
+9,Spares for revision 2,Extra passives and ICs for rework,1,12.00,12.00,LCSC,TODO,Not ordered
+,,,,,TOTAL,95.00,,
